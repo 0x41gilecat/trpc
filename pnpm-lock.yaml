@@ -12973,7 +12973,6 @@ packages:
   /dotenv@16.3.1:
     resolution: {integrity: sha512-IPzF4w4/Rd94bA9imS68tZBaYyBWSCE47V1RGuMrB94iyTOIEwRmVL2x/4An+6mETpLrKJ5hQkB8W4kFAadeIQ==}
     engines: {node: '>=12'}
-    dev: false
 
   /drizzle-kit@0.22.7:
     resolution: {integrity: sha512-9THPCb2l1GPt7wxhws9LvTR0YG565ZlVgTuqGMwjs590Kch1pXu4GyjEArVijSF5m0OBj3qgdeKmuJXhKXgWFw==}
@@ -21902,7 +21901,7 @@ packages:
       d: 1.0.1
       dayjs: 1.11.6
       decompress: 4.2.1
-      dotenv: 16.0.3
+      dotenv: 16.3.1
       dotenv-expand: 9.0.0
       essentials: 1.2.0
       ext: 1.7.0
